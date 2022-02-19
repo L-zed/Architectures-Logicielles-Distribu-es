@@ -1,0 +1,17 @@
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/server/ServerAcapulcoHotel.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/exceptions/WrongIdException.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/services/ReservationService.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/Main.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/services/ReservationServiceImpl.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/exceptions/WrongDateException.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/model/Agence.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/services/HotelService.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/model/Adresse.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/model/Client.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/exceptions/WrongLoginException.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/services/HotelServiceImpl.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/model/Offre.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/model/Hotel.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/server/ServerIbisHotel.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/model/Chambre.java
+/home/zineddine/Projects/TP_SOAP_V2/TP_SOAP 2/TP_SOAP_Hotel/src/main/java/model/Reservation.java

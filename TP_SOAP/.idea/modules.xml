@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP_SOAP 2.iml" filepath="$PROJECT_DIR$/.idea/TP_SOAP 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP_SOAP_Agence/TP_SOAP_Client.iml" filepath="$PROJECT_DIR$/TP_SOAP_Agence/TP_SOAP_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP_SOAP_Hotel/TP_SOAP_Hotel.iml" filepath="$PROJECT_DIR$/TP_SOAP_Hotel/TP_SOAP_Hotel.iml" />
+    </modules>
+  </component>
+</project>
